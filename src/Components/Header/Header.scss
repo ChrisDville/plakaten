@@ -1,0 +1,20 @@
+
+.navbar-nav{
+    width: 100%;
+    justify-content: space-between;
+}
+
+.form-inline > .form-control{
+    border-radius: 0;
+    width: 254px;
+}
+
+.form-inline > .btn-info{
+    border-radius: 0;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+    width: 150px;
+    padding: 15px 0px 0px 0px;
+}
